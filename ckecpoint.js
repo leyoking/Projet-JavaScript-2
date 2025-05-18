@@ -21,11 +21,11 @@ function mettreMajuscules(chaine) {
 
 //Rechercher le maximum et le minimum
 function trouverMax(tableau) {
-  return Math.max(...tableau);
+  return Math.max(tableau);
 }
 
 function trouverMin(tableau) {
-  return Math.min(...tableau);
+  return Math.min(tableau);
 }
 
 //Somme d'un tableau
